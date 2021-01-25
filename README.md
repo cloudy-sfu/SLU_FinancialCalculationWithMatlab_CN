@@ -1,4 +1,4 @@
-# SLU_FinancialCalculationWithMatlab_CN
+# SLU Financial Calculation with MATLAB
  Course: Financial Calculation with MATLAB
 
 ![](https://img.shields.io/badge/dependencis-MATLAB%20R2020a-brightgreen)
